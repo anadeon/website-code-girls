@@ -20,6 +20,8 @@ O projeto consiste em um portfólio pessoal com as seguintes seções:
 - CSS3
 - JavaScript 
 ----
+Você pode conferir o site neste link: [Clique aqui 🩷](https://anadeon.github.io/website-code-girls/)
+
 ✨ Desenvolvido por Ana Gabriela Deon durante o curso Santander - Code Girls
 
 
