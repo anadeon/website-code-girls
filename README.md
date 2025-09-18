@@ -1,6 +1,6 @@
 # 🌐 Website Code Girls
 
-Este é um site desenvolvido como parte da atividade prática do módulo três do curso **Santander Coders - Code Girls**.  
+Este é um site desenvolvido como parte da atividade prática do módulo três do curso **Santander - Code Girls**.  
 O projeto consiste em um portfólio pessoal com as seguintes seções:
 
 - **Sobre mim**
